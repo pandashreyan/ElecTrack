@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Election Management System
 
 A full-stack CRUD application for managing elections, candidates, voters, and votes. This application uses MongoDB, Express, React, and Node.js (MERN stack).
@@ -135,3 +136,6 @@ For testing purposes, you can use the following demo accounts:
 - Rate limiting to prevent abuse
 - Input validation and sanitization
 - Secure HTTP headers
+=======
+# ElecTrack
+>>>>>>> 0c194f8938a3f4e5ffc150352768d0b38473cc6b
